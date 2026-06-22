@@ -1,0 +1,6 @@
+name = "puter-ai-proxy"
+main = "src/worker.js"
+compatibility_date = "2024-01-01"
+
+[routes]
+# 绑定域名后自动生效
